@@ -351,7 +351,7 @@ Tech Handbook by doctors](https://coronavirustechhandbook.com/doctors)**
 | [Erlass Großveranstaltungen](https://ms.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/MS/MS/Presse_Corona/erlass_zur_durchfuehrung_von_Vernastaltungen_12_03_2020.pdf)                            | 11.03.2020 | unbegrenzt | Gültig |
 | [Ausnahme Sonntagsfahrverbot](https://mlv.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/MLV/MLV/Newsarchiv/Befristete-Ausnahme-Sonn-Feiertagsfahrverbot-Sachsen-Anhalt.pdf)                       | 17.03.2020 | 31.08.2020 | Gültig |
 | [Ausgangsbeschränkung anlässlich der COVID-19 Pandemie](https://www.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/StK/STK/Startseite_pdf_Dokumente/NEU_LVWA_Allgemeinverfuegung.22.3.20.pdf)                       | 23.03.2020 | 05.04.2020 | Gültig |
-|                                                                                                                                                                                                                   |            |            |        |
+                                                                                    |            |            |        |
 
 #### Schleswig-Holstein
 
